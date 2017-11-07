@@ -11,6 +11,8 @@ For this exercise, complete the following steps:
 
 4. Add a sentence at the bottom of the `README.md` file. What you had for breakfast is fine. Remember to save your changes to disk!
 
+Cereal
+
 5. Commit your change (hint: use `git commit -am "msg"` to add and commit at once!)
 
 6. `checkout` the `master` branch. You shuld see your previous sentence disappear!
