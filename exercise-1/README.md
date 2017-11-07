@@ -17,6 +17,8 @@ For this exercise, complete the following steps:
 
 7. Add yet another sentence **at the top of the file** --- for example, a title or subtitle.
 
+Other example sentence is here
+
 8. Commit your change
 
 9. Switch between the experiment and master branches (clicking on your editor in-between). Do you see the file contents changing? Note: In some editors you may need to close and re-open the file to see the changes.
